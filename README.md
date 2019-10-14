@@ -1,1 +1,1 @@
-EprCompl DI3 2019 Benjamin Vouillon
+EprCompl DI3 2019
